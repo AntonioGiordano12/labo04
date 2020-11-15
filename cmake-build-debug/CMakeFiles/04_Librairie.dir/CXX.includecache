@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/anton/Documents/HEIG-VD/01.2/PRG1/labo/04_Librairie/fonctions.cpp
+cstdlib
+-
+iostream
+-
+cmath
+-
+ctime
+-
+fonctions.h
+C:/Users/anton/Documents/HEIG-VD/01.2/PRG1/labo/04_Librairie/fonctions.h
+
+C:/Users/anton/Documents/HEIG-VD/01.2/PRG1/labo/04_Librairie/fonctions.h
+
+C:/Users/anton/Documents/HEIG-VD/01.2/PRG1/labo/04_Librairie/main.cpp
+iostream
+-
+fonctions.h
+C:/Users/anton/Documents/HEIG-VD/01.2/PRG1/labo/04_Librairie/fonctions.h
+
